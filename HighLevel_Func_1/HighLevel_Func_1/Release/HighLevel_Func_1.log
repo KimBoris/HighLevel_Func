@@ -1,6 +1,8 @@
 ﻿  main.c
+C:\Users\Feelgood_PC8\Documents\GitHub\HighLevel_Func\HighLevel_Func_1\HighLevel_Func_1\main.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   코드를 생성하고 있습니다.
-  Previous IPDB not found, fall back to full compilation.
-  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  0 of 7 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
   HighLevel_Func_1.vcxproj -> C:\Users\Feelgood_PC8\Documents\GitHub\HighLevel_Func\HighLevel_Func_1\Release\HighLevel_Func_1.exe
